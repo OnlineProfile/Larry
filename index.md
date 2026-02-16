@@ -146,7 +146,7 @@ World leading mobile app search & security solution provider.
 
 <a href="https://meet.google.com/aay-nrpp-cfi" ><img src="Meet.png" align="center" width="170" height="170" loading="lazy" /></a>
  
-<a href="https://join.skype.com/ki3n1R3VKh0K" ><img src="skype.png" align="center" width="170" height="170" loading="lazy" /></a>
+<a href="https://wyvern.zulipchat.com/#narrow/channel/570705-Larry" ><img src="zulip.jpg" align="center" width="170" height="170" loading="lazy" /></a>
 
 <a href="#user" ><img src="QR.png" align="center" loading="lazy" /></a>
 
